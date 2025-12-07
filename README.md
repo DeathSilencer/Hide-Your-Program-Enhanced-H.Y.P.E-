@@ -1,6 +1,6 @@
 <div align="center">
     
-<img src="assets/icon.png" style="width: 150px; height: auto;" >
+<img src="assets/icon.png" style="width: 350px; height: auto;" >
 
 # `>_` H.Y.P.E. (Hide Your Program: Enhanced)
 
