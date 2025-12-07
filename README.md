@@ -126,8 +126,6 @@ Descarga el ejecutable portable `Hype.exe` directamente desde Releases:
   </a>
 </div>
 
----
-
 ## `>_` Características
 
 - **Global Hotkey Hook:** Presiona `F8` (o tu tecla personalizada) en cualquier momento para activar el pánico, incluso dentro de juegos a pantalla completa.
