@@ -13,6 +13,7 @@ using System.Text;
 using System.Windows.Forms;
 using static Hype.Helpers.Win32Helper;
 
+
 namespace Hype
 {
     public partial class HypeForm : Form

@@ -42,6 +42,7 @@ namespace Hype
 
             // Iniciamos el formulario principal (HypeForm)
             Application.Run(new HypeForm());
+
         }
     }
 }
