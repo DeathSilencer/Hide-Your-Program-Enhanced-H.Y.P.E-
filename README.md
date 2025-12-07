@@ -110,6 +110,12 @@ Interfaz moderna "Dark Mode" diseñada para ser discreta y eficiente:
                 <img src="assets/screenshot_decoy.png" width="100%" alt="Decoy Settings">
             </td>
         </tr>
+        <tr>
+            <td align="center" colspan="2">
+                <strong>Español / Inglés</strong><br>
+                <img src="assets/screenshot_lang.png" width="60%" alt="Multi-Language Menu">
+            </td>
+        </tr>
     </table>
     <br>
 </div>
