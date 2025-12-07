@@ -121,9 +121,7 @@ Interfaz moderna "Dark Mode" diseñada para ser discreta y eficiente:
 Descarga el ejecutable portable `Hype.exe` directamente desde Releases:
 
 <div align="center">
-  <a href="https://github.com/DeathSilencer/Hide-Your-Program-Enhanced-H.Y.P.E-/releases/latest">
-    <img src="https://img.shields.io/badge/Descargar_para_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="60" />
-  </a>
+  <a href="https://github.com/DeathSilencer/Hide-Your-Program-Enhanced-H.Y.P.E-/releases/latest"><img src="https://img.shields.io/badge/Descargar_para_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="60" /></a>
 </div>
 
 ## `>_` Características
@@ -196,9 +194,7 @@ El proyecto utiliza una arquitectura limpia separando la lógica de la interfaz 
 - 📦 Empaquetado con **Costura.Fody**.
 
 <div align="center">
-  <a href="https://github.com/DeathSilencer">
-    <img src="https://img.shields.io/badge/Perfil_de_GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://github.com/DeathSilencer"><img src="https://img.shields.io/badge/Perfil_de_GitHub-black?style=for-the-badge&logo=github" /></a>
 </div>
 
 <br>
