@@ -113,7 +113,7 @@ Interfaz moderna "Dark Mode" diseñada para ser discreta y eficiente:
         <tr>
             <td align="center" colspan="2">
                 <strong>Español / Inglés</strong><br>
-                <img src="assets/screenshot_lang.png" width="60%" alt="Multi-Language Menu">
+                <img src="assets/screenshot_lang.png.png" width="60%" alt="Multi-Language Menu">
             </td>
         </tr>
     </table>
